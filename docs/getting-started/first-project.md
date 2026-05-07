@@ -7,7 +7,7 @@ updated: 2026-04-09
 
 # Your First Project
 
-The best way to learn is to do. Open the s&box editor and on the welcome screen, choose New Project. Create a Minimal Game project.
+The best way to learn is to do. Open the s&box editor and on the welcome screen, choose New Project. Create a Game - Empty project.
 
 ![](./images/creating-a-project.png)
 
