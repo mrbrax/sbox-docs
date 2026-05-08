@@ -5,6 +5,8 @@ items:
   href: input/
 - name: Navigation
   href: navigation/
+- name: NPCs
+  href: npcs.md
 - name: Terrain
   href: terrain/
 - name: VR

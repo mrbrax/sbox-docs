@@ -17,6 +17,10 @@ Keyboard, mouse, and controller input handling.
 
 NavMesh generation, pathfinding agents, areas, and links.
 
+## [NPCs](/gameplay/npcs.md)
+
+Building AI-controlled characters from components: NavMesh Agent, SkinnedModelRenderer, and IDamageable.
+
 ## [Terrain](/gameplay/terrain/index.md)
 
 Terrain creation, editing, and materials.
