@@ -1,6 +1,8 @@
 items:
 - name: HudPainter
   href: hudpainter.md
+- name: Interactions
+  href: interactions.md
 - name: Localization
   href: localization.md
 - name: Razor Panels
